@@ -6,7 +6,7 @@
                 <div class="aspect-square w-[16px] rounded-[50%] bg-gradient-to-b from-[#53389E] to-[#6941C6]"></div>
             </div>
         </div>
-        <h1 class="ml-[9.83px] font-inter font-semibold text-[16px]">Untitled UI</h1>
+        <h2 class="ml-[9.83px] font-inter font-semibold text-[16px]">Untitled UI</h2>
     </div>
 </template>
 

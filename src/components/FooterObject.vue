@@ -1,11 +1,11 @@
 <template>
     <div class="flex flex-col text-white gap-y-[12px] sm:mb-[32px]">
-        <h1 class="font-[600] text-[14px] leading-[20px] text-[#98A2B3] mb-[16px]">{{header}}</h1>
+        <h2 class="font-[600] text-[14px] leading-[20px] text-[#98A2B3] mb-[16px]">{{header}}</h2>
         <p v-bind:class="pStyle">{{text1}}</p>
         <p v-bind:class="pStyle">{{text2}}</p>
         <div class="flex">
             <p v-bind:class="pStyle">{{text3}}</p>
-            <p
+            <p 
                 class="text-center text-[12px] font-[500] text-[#FFFFFF] leading-[18px] py-[2px] px-[8px] bg-white opacity-30 rounded-[16px] ml-[8px] border-[rgba(255, 255, 255, 0.3)] border-[1px]">
                 New
             </p>

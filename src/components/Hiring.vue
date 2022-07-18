@@ -1,6 +1,6 @@
 <template>
   <div class="md:py-[96px] sm:py-[64px] md:px-[112px] sm:px-[16px] bg-[#F9FAFB]"> 
-    <h1 class="text-[36px] font-[700] text-[#101828] sm:px-[16px] md:leading-[60px] sm:leading-[44px] text-center">We’re hiring!</h1>
+    <h2 class="text-[36px] font-[700] text-[#101828] sm:px-[16px] md:leading-[60px] sm:leading-[44px] text-center">We’re hiring!</h2>
     <p class="text-[20px] font-[400] text-[#667085] md:mt-[20px] sm:mt-[16px] md:leading-[30px] sm:leading-[28px] md:px-[336px] sm:px-[16px] text-center">
       Our team is growing fast and we’re always looking for smart people.
     </p>
